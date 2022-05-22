@@ -42,7 +42,17 @@
     ],
     "uniqCompNum": 7,
     "versionPublish": "5.6.8",
-    "imageResize": true
+    "imageResize": true,
+    "screenshot": "screenshot.png",
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-TPLNWEVV30\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-TPLNWEVV30');\n</script>",
+    "favicon": "@PROJECT_PATH@/assets/images/img-5550-128x96.png",
+    "mbrsiteDomain": "pzxkuc7urz",
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false
   },
   "pages": {
     "index.html": {
